@@ -18,7 +18,7 @@ int printNthElement(int n)
         // If i is odd
         if(i%2 != 0)
             arr[i] = arr[i/2]*10+4;
-        else
+        else   // If i is even
             arr[i] = arr[(i/2)-1]*10+7;
     }
 
