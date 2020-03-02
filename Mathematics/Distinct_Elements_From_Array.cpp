@@ -1,4 +1,3 @@
-// Example program
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -26,3 +25,7 @@ int main()
     
     cout<<"\nThe number of distinct elements: "<<counter<<endl;
 }
+
+Output: 
+Distinct elements of the Array: 3 4 5 6 9 10 20                                       
+The number of distinct elements: 7
